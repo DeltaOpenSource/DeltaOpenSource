@@ -20,10 +20,10 @@
 ### 🔒 About Me
 
 
-- 🐍 Python developer focused on security automation and tooling  
-- 🐧 Daily Linux user: **Arch** for workflow, **Kali** for pentesting  
-- 🔍 Passionate about vulnerability research, threat modeling, and defensive tooling  
-- 🌐 Active contributor to **open-source security projects**  
+- 🐍 Python developer focused on cyber security   
+- 🐧 Daily Linux user: **Kali** for pentesting  
+- 🔍 I'm studying **artificial intelligence** 
+- 🌐 Believer in **open collaboration** and **transparent code**
 - 📡 Reach me on [Telegram @DeltaOffical](https://t.me/DeltaOffical)
 
 ---
