@@ -1,74 +1,60 @@
+<!-- 
+██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+-->
+
 <div align="center">
 
-  <div style="
-    background: linear-gradient(135deg, #ffffffff 0%, #ffffffff 100%);
-    border-radius:10px;
-    padding: 64px 120px;
-    margin: 24px 0;
-    border: 1px solid #ffffffff;
-    max-width: 700px;
-    color: #2e2e2eff;
-    font-family: 'Segoe UI', system-ui, sans-serif;
-  ">
-    <h1 style="
-      font-size: 3.2rem;
-      font-weight: 800;
-      margin: 0;
-      background: linear-gradient(90deg, rgba(37, 37, 37, 1), #444444ff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-    ">
-      DELPHI
-    </h1>
-    <p style="
-      font-size: 1.2rem;
-      margin-top: 12px;
-      opacity: 0.85;
-      letter-spacing: 0.5px;
-    ">
-      Open Source • Cyber Security • Python Developer 
-    </p>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=00FFC6&center=true&vCenter=true&width=650&lines=DELPHI+%E2%80%94+Open+Source+Security+Engineer;Privacy+by+Design;Python+%26+Linux+Advocate;Ethical+Hacker+Mindset" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=500&color=8A8AFF&center=true&vCenter=true&width=550&lines=Building+secure+tools;Ethical+technology+advocate;Linux+%26+Python+enthusiast;Always+learning%2C+always+coding" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" style="margin-top: 24px;" />
 
 </div>
 
 ---
 
-### 🧠 About
+### 🔒 About Me
 
-- 🔒 Focused on **digital privacy**, **security research**, and **decentralized systems**
-- 🐧 Daily on **Linux** (Kali for pentesting, Arch for daily use)
-- 🐍 Proficient in **Python**, **Bash**, and **automation**
-- 🌍 Believer in **open collaboration** and **transparent code**
-- 📬 Contact: [Telegram @DeltaOffical](https://t.me/DeltaOffical)
+
+- 🐍 Python developer focused on security automation and tooling  
+- 🐧 Daily Linux user: **Arch** for workflow, **Kali** for pentesting  
+- 🔍 Passionate about vulnerability research, threat modeling, and defensive tooling  
+- 🌐 Active contributor to **open-source security projects**  
+- 📡 Reach me on [Telegram @DeltaOffical](https://t.me/DeltaOffical)
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,html,js" />
+<div align="center" style="margin: 24px 0;">
+  <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,git,github,js,html,sqlite,nodejs" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeltaOpenSource&show_icons=true&theme=radical&border_radius=10&bg_color=00000000" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaOpenSource&layout=compact&theme=radical&border_radius=10&bg_color=00000000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeltaOpenSource&show_icons=true&theme=dark&border_radius=12&bg_color=0D1117&text_color=ffffff&icon_color=00FFC6&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaOpenSource&layout=compact&theme=dark&border_radius=12&bg_color=0D1117&text_color=ffffff&hide=html,css" width="48%" />
 </div>
 
 ---
 
-<div align="center" style="margin-top: 24px;">
+### 🌐 Connect
+
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/DeltaOpenSource">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://t.me/LinkDeltaChannel">
-    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
 </div>
+
+---
+
