@@ -72,7 +72,3 @@
     <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
-
-> “Code is like poetry — it should be clear, elegant, and meaningful.”  
-
-✨ **All repositories are open for contribution. Fork, improve, share!**
