@@ -40,7 +40,7 @@
 ### 🧠 About
 
 - 🔒 Focused on **digital privacy**, **security research**, and **decentralized systems**
-- 🐧 Daily on **Linux** (Kali for pentesting, Arch for daily use)
+- 🐧 Daily on **Linux** (Kali for pentesting)
 - 🐍 Proficient in **Python**, **Bash**, and **automation**
 - 🌍 Believer in **open collaboration** and **transparent code**
 - 📬 Contact: [Telegram @DeltaOffical](https://t.me/DeltaOffical)
