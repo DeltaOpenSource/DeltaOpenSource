@@ -36,6 +36,17 @@
 
 ---
 
+### 🌐 Social Networks
+
+<p align="left">
+    <a href="https://www.github.com/DeltaOpenSource" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub"/></a>
+    <a href="http://www.instagram.com/clever_code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/></a>
+    <a href="https://www.x.com/berna_engineer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="X"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X"/> </picture> </a>
+    <a href="https://www.youtube.com/@clevercode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/></a>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
