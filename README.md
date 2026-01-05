@@ -36,28 +36,6 @@
 
 ---
 
-### 🌐 Social Networks
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/DeltaOpenSource" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
-  </a>
-  <a href="https://t.me/DeltaOffical" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@your_youtube" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="32" alt="YouTube" />
-  </a>
-  <a href="https://x.com/your_x_handle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" height="32" alt="X (Twitter)" />
-  </a>
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
