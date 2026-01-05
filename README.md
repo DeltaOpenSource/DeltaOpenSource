@@ -19,7 +19,6 @@
 
 ### 🔒 About Me
 
-
 - 🐍 Python developer focused on cyber security   
 - 🐧 Daily Linux user: **Kali** for pentesting  
 - 🔍 I'm studying **artificial intelligence** 
@@ -36,16 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeltaOpenSource&show_icons=true&theme=dark&border_radius=12&bg_color=0D1117&text_color=ffffff&icon_color=00FFC6&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaOpenSource&layout=compact&theme=dark&border_radius=12&bg_color=0D1117&text_color=ffffff&hide=html,css" width="48%" />
-</div>
-
----
-
-### 🌐 Connect
+### 🌐 Social Networks
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/DeltaOpenSource">
@@ -54,7 +44,13 @@
   <a href="https://t.me/LinkDeltaChannel">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/your_instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@your_youtube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://x.com/your_x_handle">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
 </div>
-
----
-
