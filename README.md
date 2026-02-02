@@ -23,7 +23,7 @@
 - 🐧 Daily Linux user: **Kali** for pentesting  
 - 🔍 I'm studying **artificial intelligence** 
 - 🌐 Believer in **open collaboration** and **transparent code**
-- 📡 Reach me on [Telegram @DeltaOffical](https://t.me/DeltaOffical)
+- 📡 Reach me on [Telegram @DeltaTrue](https://t.me/DeltaTrue)
 
 ---
 
